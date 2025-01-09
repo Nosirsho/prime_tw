@@ -1,7 +1,5 @@
 <script setup></script>
 
 <template>
-  <div class="bg-red-200">
-    <h1>Header</h1>
-  </div>
+  <div class="col-span-2 col-span-7 bg-orange-200">02</div>
 </template>

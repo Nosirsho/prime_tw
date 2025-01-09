@@ -1,7 +1,5 @@
 <script setup></script>
 
 <template>
-  <div class="bg-yellow-200">
-   <h1>Sidebar</h1>
-  </div>
+  <div class="row-span-9 col-span-2 bg-green-100"></div>
 </template>

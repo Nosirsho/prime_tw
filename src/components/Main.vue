@@ -1,7 +1,4 @@
 <script setup></script>
-
 <template>
-  <div class="bg-green-200">
-  <h1>Main</h1>
-  </div>
+  <div class="row-span-8 col-span-7 bg-blue-200">03</div>
 </template>
